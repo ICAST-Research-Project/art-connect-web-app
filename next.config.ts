@@ -5,7 +5,7 @@ const nextConfig: NextConfig = {
   images: {
     domains: [
       "iam.amazonaws.com",
-      "s3.us-east-2.amazonaws.com",
+      "s3.us-east-1.amazonaws.com",
       "t3.storage.dev",
     ],
   },
